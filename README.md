@@ -1,5 +1,4 @@
 # AI Research Lens
-The app can be accessed here: https://smart-optim-energy.ase.ro:80/rlens/
 An AI-powered bibliometric analysis framework with agentic workflows for ingesting, analyzing, and reporting on academic research data.
 
 ## Highlights
